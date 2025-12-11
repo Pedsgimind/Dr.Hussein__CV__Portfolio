@@ -127,6 +127,9 @@ a:hover {
 
 .cv-buttons {
   margin-top: 0.6rem;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0.75rem;
 }
 
 /* Buttons */
