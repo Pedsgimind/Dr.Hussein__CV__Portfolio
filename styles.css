@@ -288,3 +288,17 @@ a:hover {
     flex-wrap: nowrap;
   }
 }
+.cv-publications {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.cv-publications li {
+  margin-bottom: 1.25rem;
+  line-height: 1.6;
+}
+
+.cv-publications p {
+  margin: 0;
+  font-size: 1rem;
+}
