@@ -64,7 +64,12 @@ a:hover {
   font-size: 1.9rem;
   font-weight: 700;
 }
-
+.cv-name {
+  font-size: 2.4rem;       /* same size as before */
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;     /* forces one line */
+}
 .profile-main h2 {
   font-size: 1.1rem;
   font-weight: 500;
